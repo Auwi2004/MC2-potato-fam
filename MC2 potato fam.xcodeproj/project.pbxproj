@@ -16,6 +16,8 @@
 		362162772675B7C800F4B045 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 362162752675B7C800F4B045 /* LaunchScreen.storyboard */; };
 		362162822675B7C800F4B045 /* MC2_potato_famTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 362162812675B7C800F4B045 /* MC2_potato_famTests.swift */; };
 		3621628D2675B7C800F4B045 /* MC2_potato_famUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3621628C2675B7C800F4B045 /* MC2_potato_famUITests.swift */; };
+		367AE6172677C88500AC98B5 /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 367AE6162677C88500AC98B5 /* TabBarViewController.swift */; };
+		367AE61C2677C8F500AC98B5 /* PlannerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 367AE61B2677C8F500AC98B5 /* PlannerViewController.swift */; };
 		9581AF452677770F00F2FEE5 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9581AF442677770F00F2FEE5 /* WelcomeViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -52,6 +54,8 @@
 		362162882675B7C800F4B045 /* MC2 potato famUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MC2 potato famUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3621628C2675B7C800F4B045 /* MC2_potato_famUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MC2_potato_famUITests.swift; sourceTree = "<group>"; };
 		3621628E2675B7C800F4B045 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		367AE6162677C88500AC98B5 /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
+		367AE61B2677C8F500AC98B5 /* PlannerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlannerViewController.swift; sourceTree = "<group>"; };
 		9581AF442677770F00F2FEE5 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -106,7 +110,9 @@
 				362162672675B7BF00F4B045 /* AppDelegate.swift */,
 				362162692675B7BF00F4B045 /* SceneDelegate.swift */,
 				3621626B2675B7BF00F4B045 /* ViewController.swift */,
+				367AE61B2677C8F500AC98B5 /* PlannerViewController.swift */,
 				3621626D2675B7BF00F4B045 /* Main.storyboard */,
+				367AE6162677C88500AC98B5 /* TabBarViewController.swift */,
 				9581AF442677770F00F2FEE5 /* WelcomeViewController.swift */,
 				362162732675B7C800F4B045 /* Assets.xcassets */,
 				362162752675B7C800F4B045 /* LaunchScreen.storyboard */,
@@ -268,6 +274,8 @@
 				9581AF452677770F00F2FEE5 /* WelcomeViewController.swift in Sources */,
 				362162682675B7BF00F4B045 /* AppDelegate.swift in Sources */,
 				362162722675B7BF00F4B045 /* MC2_potato_fam.xcdatamodeld in Sources */,
+				367AE61C2677C8F500AC98B5 /* PlannerViewController.swift in Sources */,
+				367AE6172677C88500AC98B5 /* TabBarViewController.swift in Sources */,
 				3621626A2675B7BF00F4B045 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
